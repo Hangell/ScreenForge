@@ -7,7 +7,7 @@
   <br />
   Construída com Avalonia UI e FFmpeg para performance superior
 </p>
-
+![Work in Progress](https://img.shields.io/badge/work--in--progress-⚠️-red)
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-.NET%206+-blue.svg" alt=".NET 6+" />
   <img src="https://img.shields.io/badge/UI-Avalonia-purple.svg" alt="Avalonia UI" />
