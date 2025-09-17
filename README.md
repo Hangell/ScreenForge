@@ -1,8 +1,6 @@
 # 🎬 ScreenForge
 
 <p align="center">
-  <img src="./assets/screenforge-logo.png" alt="ScreenForge Logo" width="128" height="128">
-  <br />
   <strong>Uma aplicação multiplataforma de gravação de tela poderosa e fácil de usar</strong>
   <br />
   Construída com Avalonia UI e FFmpeg para performance superior
