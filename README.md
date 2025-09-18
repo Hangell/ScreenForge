@@ -1,7 +1,7 @@
 # 🎬 ScreenForge
 
 <p align="center">
-  <strong>Uma aplicação multiplataforma de gravação de tela poderosa e fácil de usar</strong>
+  <strong>Uma aplicação multiplataforma de gravação de tela poderosa e fácil de usar (Apenas grava a tela)</strong>
   <br />
   Construída com Avalonia UI e FFmpeg para performance superior
 </p>
